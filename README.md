@@ -7,7 +7,7 @@ My project for Data Intelligence class
 |------------------------------|---------------------------------------------------------------|
 | CustomerID                   | Unique customer ID                                            |
 | Churn                        | Churn Flag (0 → No, 1 → Yes)                                                   |
-| Tenure                       | Length customer has been with the company                     |
+| Tenure                       | Length customer has been with the company (in months)                    |
 | PreferredLoginDevice         | Preferred login device of customer                            |
 | CityTier                     | City tier (1 → big, 2 → medium, 3 → small)                    |
 | WarehouseToHome              | Distance between warehouse and customer's home               |
