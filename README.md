@@ -10,7 +10,7 @@ My project for Data Intelligence class
 | Tenure                       | Length customer has been with the company (in months)                    |
 | PreferredLoginDevice         | Preferred login device of customer                            |
 | CityTier                     | City tier (1 → big, 2 → medium, 3 → small)                    |
-| WarehouseToHome              | Distance between warehouse and customer's home               |
+| WarehouseToHome              | Distance between warehouse and customer's home (in km)               |
 | PreferredPaymentMode         | Preferred payment method of customer                          |
 | Gender                       | Gender of customer                                            |
 | HourSpendOnApp               | Number of hours spent on mobile application or website        |
